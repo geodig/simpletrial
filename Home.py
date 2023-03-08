@@ -6,6 +6,7 @@ Created on Tue Feb 28 21:35:46 2023
 """
 import streamlit as st
 import openpyxl
+import pandas as pd
 
 st.header("Coba")
 
